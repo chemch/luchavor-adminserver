@@ -8,7 +8,7 @@
 		<version>3.1.2</version>
 		<relativePath/> 
 	</parent>
-	<groupId>com.luchavor</groupId>
+	<groupId>com.luchavor</groupId> 
 	<artifactId>adminserver</artifactId>
 	<version>0.0.3</version>
 	<name>admin-server</name>
