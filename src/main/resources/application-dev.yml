@@ -1,0 +1,5 @@
+management:
+  server:
+    port: 13001
+server:
+  port: 13000
