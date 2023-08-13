@@ -1,4 +1,6 @@
 spring:
+  profiles:
+    active: local, dev, qa, prod, test
   application:
     name: admin-server
   main: 
